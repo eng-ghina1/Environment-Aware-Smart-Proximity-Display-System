@@ -1,6 +1,5 @@
 # Environment-Aware-Smart-Proximity-Display-System
 
-# Smart Proximity Display and Alert System
 
 ## Overview
 
